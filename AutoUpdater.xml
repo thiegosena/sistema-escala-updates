@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0</version>
-    <url>PENDENTE</url>
-    <changelog>https://github.com/SEU-USUARIO/sistema-escala-updates/releases</changelog>
+    <url>https://github.com/thiegosena/sistema-escala-updates/releases/download/v1.8.0/SetupEscalaEstoqueV1.8.0.exe</url>
+    <changelog>https://github.com/thiegosena/sistema-escala-updates/releases</changelog>
     <mandatory>false</mandatory>
 </item>
