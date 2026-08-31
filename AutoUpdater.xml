@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.8.0.3</version>
-    <url>https://github.com/thiegosena/sistema-escala-updates/releases/download/v1.8.0.3/SetupEscalaEstoqueV1.8.0.3.exe</url>
+    <url>https://github.com/thiegosena/sistema-escala-updates/releases/download/v1.8.0.4/SetupEscalaEstoqueV1.8.0.4.exe</url>
     <changelog>https://raw.githubusercontent.com/thiegosena/sistema-escala-updates/refs/heads/main/changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
