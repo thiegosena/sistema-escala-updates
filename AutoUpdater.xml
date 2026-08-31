@@ -2,6 +2,6 @@
 <item>
     <version>1.8.0.3</version>
     <url>https://github.com/thiegosena/sistema-escala-updates/releases/download/v1.8.0.3/SetupEscalaEstoqueV1.8.0.3.exe</url>
-    <changelog>https://github.com/thiegosena/sistema-escala-updates/releases</changelog>
+    <changelog>https://raw.githubusercontent.com/thiegosena/sistema-escala-updates/refs/heads/main/changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
