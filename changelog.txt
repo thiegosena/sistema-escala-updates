@@ -1,3 +1,3 @@
-   Versão 1.8.0.4
+   Versão 1.8.0.5
    - Corrigido bug na tela update
    - Linguagem padrão pt-BR
