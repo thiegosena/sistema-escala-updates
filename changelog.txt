@@ -1,5 +1,3 @@
-   Versão 1.8.1.0
-   - Estilização de cores no Grid
-   - Visual novo em Colaboradores
-   - Visual novo em Blocos em Escala
-   - Detalhes de versão no Login e no Dashboard
+   Versão 1.8.1.1
+   - Melhoria no Cadastro de Colaboradores
+   - Campo de Busca adicionado acima do Grid
