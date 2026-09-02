@@ -1,3 +1,5 @@
-   Versão 1.8.0.5
-   - Corrigido bug na tela update
-   - Linguagem padrão pt-BR
+   Versão 1.8.1.0
+   - Estilização de cores no Grid
+   - Visual novo em Colaboradores
+   - Visual novo em Blocos em Escala
+   - Detalhes de versão no Login e no Dashboard
